@@ -1,4 +1,4 @@
-# Factum | Cylum
+# Cylum
 
 **Ciberseguridad simplificada**  
 Protege tu empresa frente a riesgos digitales y cumple con la normativa vigente.
