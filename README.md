@@ -56,7 +56,7 @@ Estamos aquí para garantizar que tu empresa esté protegida de manera continua,
 
 ## Más información
 
-🌐 [Sitio web](https://cylum.tech/sobre-nosotros/)  
+🌐 [Sitio web](https://cylum.tech/)  
 🔗 [LinkedIn](https://www.linkedin.com/showcase/cylum-ciberseguridad)
 
 ---
