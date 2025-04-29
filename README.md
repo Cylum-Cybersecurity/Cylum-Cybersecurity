@@ -8,7 +8,7 @@ Protege tu empresa frente a riesgos digitales y cumple con la normativa vigente.
 ## ¿Quiénes somos?
 
 **Cylum** es la marca especializada en ciberseguridad de **Factum**, parte del **Grupo Santander**.  
-Con más de **15 años** de experiencia, **130 profesionales** y presencia en **más de 60 países**, ayudamos a más de **200 clientes** a fortalecer su postura de seguridad, reducir riesgos y optimizar sus recursos.
+Con más de **15 años** de experiencia, **150 profesionales** y presencia en **más de 60 países**, ayudamos a más de **500 clientes** a fortalecer su postura de seguridad, reducir riesgos y optimizar sus recursos.
 
 Nuestro enfoque combina:
 
